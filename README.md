@@ -1,6 +1,9 @@
 # rusty-student
-Journaling my Rust learning journey, let's see what is this steep learning curve is about.
+Journaling my Rust learning journey, let's see what this steep learning curve is about.
 
+## github-user-fetch-cli
+### 22/3/2026
+Made a CLI program that prints out some user info by their username using github api, here is its [repo](https://github.com/Travis8795/github-user-fetch-cli)
 
 ## First tutorial
 ### 30/3/2026, 31/3/2026
